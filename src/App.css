@@ -1,0 +1,41 @@
+.items{
+  margin:30px;
+  display: flex;
+  flex-direction: column;
+}
+.item{
+ color:black;
+ font-size: 15;
+ padding:5px;
+ text-decoration: none;
+ cursor: pointer;
+}
+.ligne{
+  width:200px;
+  height: 2px;
+  background-color: #2196f7;
+  margin:0px;
+  margin-top: 15px;
+}
+ a:active { color: #2196f7; }
+ 
+.liste{
+  border:2px solid  #2196f7;
+  width:145px;
+  list-style: none;
+  margin-left:60px;
+  margin-top:0px;
+  padding:0px;
+  display:flex;
+  flex-direction: column;
+
+}
+.for{
+  text-decoration: none;
+  padding-left:2px;
+  font-size: 15px;
+  padding:10px;
+  color:black;
+
+}
+
